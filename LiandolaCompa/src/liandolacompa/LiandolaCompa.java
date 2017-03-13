@@ -16,6 +16,7 @@ public class LiandolaCompa {
      */
     public static void main(String[] args) {
         System.out.println("La vamos liando compa");
+        System.err.println("ola k ase viendo momos o k ase?");
     }
     
 }
